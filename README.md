@@ -18,8 +18,10 @@
 - Страница ответа предусматривает отображение меты документа, а также страницы содержащей ответ на вопрос
 
 пример реализации загрузки документов
-<img src="http://d.zaix.ru/Kjd9.png" alt="Загрузка1" width="500">
-<img src="http://d.zaix.ru/Kjdb.png" alt="Загрузка2" width="500">
+
+
+<img src="http://d.zaix.ru/Kjd9.png" alt="Загрузка1" width="400">
+<img src="http://d.zaix.ru/Kjdb.png" alt="Загрузка2" width="400">
 
 
 Opensource реализация генеративных чатов, можно взять её
