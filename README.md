@@ -15,6 +15,20 @@
 - Поле ввода запроса.
 - Поле ответа на запрос.
 - Кнопка выбора файла и загрузки его.
+- Страница ответа предусматривает отображение меты документа, а также страницы содержащей ответ на вопрос
+
+пример реализации загрузки документов
+<img src="http://d.zaix.ru/Kjd9.png" alt="Загрузка1" width="500">
+<img src="http://d.zaix.ru/Kjdb.png" alt="Загрузка2" width="500">
+
+
+Opensource реализация генеративных чатов, можно взять её
+[https://streamlit.io](https://streamlit.io/generative-ai)
+вот пример норм 
+[https://knowledgegpt.streamlit.app](https://knowledgegpt.streamlit.app)
+
+Либо если писать самому, open Source UI комоненты можно брать отсюда
+https://ant.design
 
 2. **Артур.** Джоба, которая индексирует новые документы.
 Есть папка New_documents:
