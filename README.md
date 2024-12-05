@@ -28,12 +28,10 @@ _пример реализации загрузки документов_
 </div>
 
 
-
-Opensource реализация генеративных чатов, можно взять её [https://streamlit.io](https://streamlit.io/generative-ai)
-
-вот пример норм [https://knowledgegpt.streamlit.app](https://knowledgegpt.streamlit.app)
-
-Либо если писать самому, open Source UI комоненты можно брать отсюда [ссылка](https://ant.design)
+**Ресурсы:**
+- Opensource реализация генеративных чатов, можно взять её [https://streamlit.io](https://streamlit.io/generative-ai)
+- Вот пример готового норм [https://knowledgegpt.streamlit.app](https://knowledgegpt.streamlit.app)
+- Либо если писать самому, open Source UI комоненты можно брать отсюда [ant.design](https://ant.design)
 
 
 2. **Артур.** Джоба, которая индексирует новые документы.
