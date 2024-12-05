@@ -17,7 +17,7 @@
 - Кнопка выбора файла и загрузки его.
 - Страница ответа предусматривает отображение меты документа, а также страницы содержащей ответ на вопрос
 
-пример реализации загрузки документов
+_пример реализации загрузки документов_
 
 <div style="display: flex; gap: 10px;">
 
@@ -29,13 +29,12 @@
 
 
 
-Opensource реализация генеративных чатов, можно взять её
-[https://streamlit.io](https://streamlit.io/generative-ai)
-вот пример норм 
-[https://knowledgegpt.streamlit.app](https://knowledgegpt.streamlit.app)
+Opensource реализация генеративных чатов, можно взять её [https://streamlit.io](https://streamlit.io/generative-ai)
 
-Либо если писать самому, open Source UI комоненты можно брать отсюда
-https://ant.design
+вот пример норм [https://knowledgegpt.streamlit.app](https://knowledgegpt.streamlit.app)
+
+Либо если писать самому, open Source UI комоненты можно брать отсюда [ссылка](https://ant.design)
+
 
 2. **Артур.** Джоба, которая индексирует новые документы.
 Есть папка New_documents:
