@@ -19,9 +19,14 @@
 
 пример реализации загрузки документов
 
+<div style="display: flex; gap: 10px;">
 
-<img src="http://d.zaix.ru/Kjd9.png" alt="Загрузка1" width="400">
-<img src="http://d.zaix.ru/Kjdb.png" alt="Загрузка2" width="400">
+  <img src="http://d.zaix.ru/Kjd9.png" alt="Описание первой картинки" width="500">
+  
+  <img src="http://d.zaix.ru/Kjdb.png" alt="Описание второй картинки" width="500">
+
+</div>
+
 
 
 Opensource реализация генеративных чатов, можно взять её
