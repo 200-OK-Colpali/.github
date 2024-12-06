@@ -53,6 +53,7 @@
    - Получить бенчмарки поиска для сравнения с ColPali
 5. **Саша** Презентация и чекпойнты
 
+
 **Ресурсы:**
 
 1. UI
@@ -69,6 +70,7 @@
 3. Аналог ColPali
 
   - multi_model_rag_with_captioning [ipynb](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb)
+
 
 
 **Dataset**
