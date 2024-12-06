@@ -19,9 +19,10 @@
    - Отправить запрос
    - Получить ответ поиска: название документа, страницу (или страницы) с релевантным поиском.
    - Окно ответа с генерацией LLM с конечным осмысленным ответом.
-4. Аналог RAG пайплайна
+4. Аналоги ColPali пайплайна, Image to text llm
    - Исследовать аналог
    - Получить бенчмарки поиска для сравнения с ColPali
+   - Генерация на основании картинки
 5. Презентация и чекпойнты
    - Подготовка презентаций
    - Запись видео демо
@@ -48,7 +49,7 @@
    - Отправить запрос
    - Получить ответ поиска: название документа, страницу (или страницы) с релевантным поиском.
    - Окно ответа с генерацией LLM с конечным осмысленным ответом.
-4. **Артур** Аналог RAG пайплайна
+4. **Артур** Аналог RAG пайплайна. Image to text LLM
    - Исследовать аналог
    - Получить бенчмарки поиска для сравнения с ColPali
 5. **Саша** Презентация и чекпойнты
@@ -67,9 +68,12 @@
   - ColPali [About](https://huggingface.co/blog/manu/colpali)
   - Имплементация [multi_model_rag_with_colpali](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_model_rag_with_colpali.ipynb)
 
-3. Аналог ColPali
+3. Moondream2
+   
+   - Image to text LLM  [moondream2](https://huggingface.co/vikhyatk/moondream2)
+5. Аналог ColPali
 
-  - multi_model_rag_with_captioning [ipynb](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb)
+   - multi_model_rag_with_captioning [ipynb](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/multi_model_rag_with_captioning.ipynb)
 
 
 
